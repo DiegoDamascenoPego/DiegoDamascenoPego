@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodamascenopego&label=Profile%20views&color=0e75b6&style=flat" alt="diegodamascenopego" /> </p>
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/diego-damasceno-pego/" target="blank">
+  <a href="https://linkedin.com/in/diego-damasceno-pego/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/></a>
-  <a href="https://discord.gg/Diego Pêgo#6756" target="blank">
+  <a href="https://discord.gg/Diego Pêgo#6756" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat" alt="diegodamascenopego" />
   </a>
 </p>

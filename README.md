@@ -2,11 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegodamascenopego&label=Profile%20views&color=0e75b6&style=flat" alt="diegodamascenopego" /> </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat" alt="diegodamascenopego" />
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
-
-
- </p>
+  <a href="https://linkedin.com/in/diego-damasceno-pego/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/></a>
+  <a href="https://discord.gg/Diego Pêgo#6756" target="blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat" alt="diegodamascenopego" />
+  </a>
+</p>
 
 <h3 align="center">Hi 👋, I'm Hello my name is Diego Pêgo</h1>
 <h5 align="center">software developer</h3>
